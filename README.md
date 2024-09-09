@@ -16,3 +16,5 @@ const salts = ['CzqdrIEq', '25kpbuhq0', 'i3OoGUE0']; // These Salt Comes From Re
 const password = '12345678';
 console.log('password_hashes:', EncryptPassword(password,salts).join(','));
 ```
+# Disclaimer
+This project is provided only for educational purposes. It should not be used for illegal activities or to compromise any systems. The author assumes no responsibility for any misuse of this code.
